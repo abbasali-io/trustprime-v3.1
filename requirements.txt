@@ -1,0 +1,8 @@
+opencv-python
+Flask
+pandas
+matplotlib
+Pyrebase4
+scipy
+json_minify
+imutils
